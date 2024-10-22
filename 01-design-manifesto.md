@@ -1,4 +1,4 @@
-***DESIGN MANIFESTO***
+***MY DESIGN MANIFESTO***
 
 1. **Design should have purpose🎯**:
 
