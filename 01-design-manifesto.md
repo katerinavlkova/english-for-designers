@@ -1,4 +1,5 @@
 ***Katerina's DESIGN MANIFESTO***
+
 *11.10.2024*
 
 1. **Design should have purpose🎯**:
