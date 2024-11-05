@@ -19,7 +19,7 @@ Typography is important because it affects how we read and understand text. Pick
 
 ## **Learning**:
 
-Learning in design is something that never really stops. Because the design world is always changing, it's important to stay curious and open to new ideas. By keeping up with the latest trends and trying out new tools, designers can continue to improve their skills and make sure their work stays 
+Learning in design is something that never really stops. Because the design world is always changing, it's important to stay curious and open to new ideas. By keeping up with the latest trends and trying out new tools, designers can continue to improve their skills and make sure their work stays relevant.
 
 
 ## **Simplicity**:
