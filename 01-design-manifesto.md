@@ -17,17 +17,10 @@ Freedom in design is essential because it lets creativity flow. There are rules 
 Typography is important because it affects how we read and understand text. Picking the right font and spacing makes the text easier to read and more visually appealing. When the text is well-designed, it catches the reader's attention and keeps them engaged with what they are reading.
 
 
-
-
-
-
-
-
    
 ## **Learning**:
 
-Learning in design is a continuous process that never stops. The design world is always changing, so it’s crucial to stay curious and open to new ideas. By keeping up with the latest trends and tools, designers can improve their skills and ensure their work remains fresh and relevant.
-
+Learning in design is something that never really stops. Because the design world is always changing, it's important to stay curious and open to new ideas. By keeping up with the latest trends and trying out new tools, designers can continue to improve their skills and make sure their work stays relevant.
 
 
 
