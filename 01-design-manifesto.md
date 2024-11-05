@@ -14,7 +14,14 @@ Freedom in design is essential because it lets creativity flow. There are rules 
 
 ## **Typography matters**:
 
-Typography is important because it affects how we read and understand text. Picking the right font and spacing makes the text easier to read and more visually appealing. Good typography helps convey emotions and enhances the overall experience, making the content more engaging for the reader.
+Typography is important because it affects how we read and understand text. Picking the right font and spacing makes the text easier to read and more visually appealing. When the text is well-designed, it catches the reader's attention and keeps them engaged with what they are reading.
+
+
+
+
+
+
+
 
    
 ## **Learning**:
