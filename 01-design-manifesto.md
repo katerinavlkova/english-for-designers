@@ -1,32 +1,34 @@
-***Katerina's DESIGN MANIFESTO***
+# ***Katerina's DESIGN MANIFESTO***
 
 *15.10.2024*
 
-**Design should have purpose**:
+## **Design should have purpose**:
 
-Design is not just about looking good; it is about solving problems and meeting needs. Beauty is important, but functionality comes first. Every choice in design, like color, layout, or font, should support the purpose and message.
-
-
-**Freedom**:
-
-Freedom in design allows creativity to flow. Rules are there to guide us, not to limit us. This freedom allows designers to try new ideas and find unique solutions.
+Design is not just about looking good; it’s mainly about solving problems and meeting people's needs. While making something beautiful is nice, making sure it works well is even more important. Every decision in design, such as choosing colors, layouts, or fonts, should help support the main purpose and communicate the message.
 
 
-**Typography matters**:
+## **Freedom**:
 
-Typography matters because it affects how we read and understand he message. Choosing the right font and spacing makes the text easy to read and visually appealing. Good typography helps express feelings and improves the overall experience.
+Freedom in design is essential because it lets creativity flow. There are rules that can help guide designers, but these should not restrict their imagination. This freedom allows designers to explore new ideas and take risks, which can lead to exciting and unique solutions that stand out.
+
+
+## **Typography matters**:
+
+Typography is important because it affects how we read and understand text. Picking the right font and spacing makes the text easier to read and more visually appealing. Good typography helps convey emotions and enhances the overall experience, making the content more engaging for the reader.
 
    
-**Learning**:
+## **Learning**:
 
-Learning in design never stops. The field is always changing, so it is important to stay curious and open to new ideas. Keeping up with trends and tools helps designers grow and stay fresh.
-
-
-**Consistency**:
-
-Consistency is important for creating a smooth experience. When all parts of a design fit well together, it is easier to understand. Consistency is not about repeating the same thing but about making elements work together.
+Learning in design is a continuous process that never stops. The design world is always changing, so it’s crucial to stay curious and open to new ideas. By keeping up with the latest trends and tools, designers can improve their skills and ensure their work remains fresh and relevant.
 
 
-**Simplicity**:
 
-A simple design is often the most effective. Too many details can overwhelm, so it is better to keep things clean and focused. Highlighting only what is essential makes the message stronger and easier to remember.
+
+## **Consistency**:
+
+Consistency is important for creating a smooth experience for users. When all parts of a design fit well together, it’s easier for people to understand and use. Consistency doesn’t mean using the same design over and over; it means making sure different elements work together nicely to create a unified look.
+
+
+## **Simplicity**:
+
+A simple design is often the most effective way to communicate. Having too many details can confuse people, so it’s better to keep things clean and focused. By highlighting only what is essential, designers can make their messages stronger and easier for people to remember.
