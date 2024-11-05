@@ -26,7 +26,7 @@ Learning in design is something that never really stops. Because the design worl
 
 ## **Consistency**:
 
-Consistency is important for creating a smooth experience for users. When all parts of a design fit well together, it’s easier for people to understand and use. Consistency doesn’t mean using the same design over and over; it means making sure different elements work together nicely to create a unified look.
+Consistency is important for creating a smooth experience for users. When all parts of a design fit well together, it’s easier for people to understand and use. Consistency doesn’t mean using the same design over and over; it means making sure different elements work together nicely to create a clear and harmonious look.
 
 
 ## **Simplicity**:
