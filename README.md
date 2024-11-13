@@ -2,7 +2,7 @@
 
 ***01: Design manifesto***
 - [Manifesto](01-design-manifesto.md)
-- [Manifesto](01.2-design-manifesto-presentation.md)
+- [Presentation](01.2-design-manifesto-presentation.md)
 
 ***02: First impressions***
 - [Research](03-research.md)
