@@ -7,6 +7,6 @@
 ***02: First impressions***
 - [Research](03-research.md)
 - [Drafts](04-drafts.md)
-- [My bio](05-my-bio.md)
+- [Portfolio](05-portfolio.md)
 
 
