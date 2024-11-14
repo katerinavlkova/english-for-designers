@@ -1,8 +1,8 @@
 ## **1. Yul Moreau** ##
 https://y78.fr/
 
-## **Howsem Huang** ##
+## **2. Howsem Huang** ##
 https://howsem-huang.webflow.io/
 
-## **Ayaka** ##
+## **3. Ayaka** ##
 https://ayakaito.com/
