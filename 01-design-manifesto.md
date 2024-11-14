@@ -1,6 +1,6 @@
 # ***Katerina's DESIGN MANIFESTO***
 
-*15.10.2024* |[Presentation](manifesto.pdf)
+*15.10.2024* | [Presentation](manifesto.pdf)
 
 ## **Design should have purpose**:
 
