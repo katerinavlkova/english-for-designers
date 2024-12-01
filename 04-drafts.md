@@ -1,6 +1,6 @@
-# ***concise bio***
+# ***Concise bio***
 
 
-# ***expanded bio***
+# ***Expanded bio***
 
 
