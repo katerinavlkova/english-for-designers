@@ -7,7 +7,7 @@ Currently, I’m finishing my studies in Graphic and Media Design at PSCC, where
 
 For me, design is about understanding. I take time to learn about each client’s vision, values, and goals so I can create designs that truly represent them. Whether it’s a logo, a website, or an entire brand refresh, I make sure my work is both visually striking and practical.
 
-Let’s collaborate to create a design that tells your story and makes your brand stand out!
+Let’s collaborate to create a design that makes your brand stand out!
 
 
 # My featured projects:
