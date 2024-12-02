@@ -1,4 +1,6 @@
 # About me:
+> I’m Kateřina Vlková, a graphic designer who believes good design should always have a purpose. I specialize mainly in working on brand identities and digital designs.
+
 
 # My featured projects:
 ## 01: Café Letka 
