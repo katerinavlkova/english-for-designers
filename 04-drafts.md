@@ -23,6 +23,4 @@ Hi! I’m Kateřina Vlková, a graphic designer who believes every project start
 
 For me, design is about understanding. I take time to learn about each client’s vision, values, and goals so I can create designs that truly represent them. Whether it’s a logo, a website, or an entire brand refresh, I make sure my work is both visually striking and practical.
 
-In the future, I’m excited to work with businesses and creative teams to build strong brands and effective digital designs. My goal is to deliver designs that leave a lasting impression and help businesses grow.
-
 Let’s collaborate to create a design that tells your story and makes your brand stand out!
