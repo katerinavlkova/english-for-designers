@@ -2,7 +2,7 @@
 [About](about.md)
 
 ## Handshake
-HI! I’m Kateřina Vlková, a graphic designer who believes good design should always have a purpose. I specialize mainly in working on brand identities and digital designs.
+> HI! I’m Kateřina Vlková, a graphic designer who believes good design should always have a purpose. I specialize mainly in working on brand identities and digital designs.
 
 ## Featured Projects
 ## 01: Café Letka 
