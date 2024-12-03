@@ -1,3 +1,6 @@
+***Katerina's design manifesto***
+| 11.10.2024 | 
+
 1. Design should have purpose
 Design is not just about looking good; it’s mainly about solving problems and meeting people's needs. While making something beautiful is nice, making sure it works well is even more important. Every decision in design, such as choosing colors, layouts, or fonts, should help support the main purpose and communicate the message.
 
