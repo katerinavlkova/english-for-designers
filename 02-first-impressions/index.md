@@ -27,4 +27,3 @@ This project helped more people connect with the gallery and its art in a new wa
 This was a group school project where we collaborated to create the visual identity for the 40th FAMUFEST. The festival focused on the theme of “networks” and how they connect artists, audiences, and the world. Our design was inspired by neural networks in the brain, which influence our emotions and responses to art.
 
 We designed a logo, website, and social media visuals, which were also used in promotional materials. The design reflected the theme of connection and was applied across all festival platforms.
-![image](https://github.com/user-attachments/assets/0142f6b3-869d-40e6-a4ec-7436b868634a)
