@@ -2,7 +2,7 @@
 
 **[01: Design Manifesto](01-design-manifesto)**
 - [Manifesto](01-design-manifesto/manifesto.md)
-- [Talk](01-design-manifesto/talk.md)
+- [Talk](01-design-manifesto/manifesto.pdf)
 
 **[02: First impressions](02-first-impressions)**
 - [Process](02-first-impressions/process.md)
