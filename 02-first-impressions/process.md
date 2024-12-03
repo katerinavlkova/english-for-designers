@@ -1,6 +1,6 @@
-# Process
+# Process:
 
-# Research
+# Research:
 ## **1. Yul Moreau** ##
 https://y78.fr/
 - bold, high-contrast design grabs attention and feels very modern
@@ -44,4 +44,5 @@ I’m Kateřina Vlková, a graphic designer who believes every project starts wi
 For me, design is about understanding. I take time to learn about each client’s vision, values, and goals so I can create designs that truly represent them. Whether it’s a logo, a website, or an entire brand refresh, I make sure my work is both visually striking and practical.
 
 Let’s collaborate to create a design that tells your story and makes your brand stand out!
-# Notes
+
+# Notes:
