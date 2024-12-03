@@ -4,9 +4,9 @@
 
 
 **[02: First impressions](02-first-impressions)**
-   ***[Process](process.md)***
-   ***[About](about.md)***
-   ***[Index](index.md)***
+    ***[Process](process.md)***
+    ***[About](about.md)***
+    ***[Index](index.md)***
 
 
 
