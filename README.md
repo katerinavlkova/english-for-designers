@@ -1,7 +1,7 @@
 # english-for-designers
 
 ***01: Design manifesto***
-- [Manifesto](01-design-manifesto.md)
+- [Manifesto](01-design-manifesto)
 - [Talk](manifesto.pdf)
 
 ***02: First impressions***
