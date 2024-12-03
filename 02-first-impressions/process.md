@@ -29,7 +29,7 @@ Hi! I’m Kateřina, a graphic designer who believes in thoughtful, meaningful w
 # 03:
 HI! I’m Kateřina Vlková and I believe every design should tell a story. Let’s work together to build a brand identity or web design that speaks to your audience and stands out.
 
-# ***Expanded bio***
+## ***Expanded bio***
 # 01:
 Hi! I’m Kateřina Vlková, a graphic designer who believes every design should tell a story. I specialize in creating brand identities and web designs that help businesses connect with their audience in a way that’s memorable.
 
