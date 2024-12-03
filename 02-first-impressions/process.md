@@ -17,8 +17,8 @@ https://ayakaito.com/
 - simple and minimalist
 - each project has a short description that quickly explains its concept
 
-## Drafts
-# ***Concise bio***
+# Drafts:
+## ***Concise bio***
 # 01:
 I’m Kateřina Vlková, a graphic designer who believes good design should always have a purpose. I love working on brand identities and digital designs.
 
