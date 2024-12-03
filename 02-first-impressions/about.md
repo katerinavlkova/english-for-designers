@@ -1,3 +1,4 @@
+## About me:
 Hi! I’m Kateřina Vlková, a graphic designer who believes every project starts with a story. I focus mainly on creating brand identities and web designs that not only look great but also help businesses connect with their audience.
 
 Currently, I’m finishing my studies in Graphic and Media Design at PSCC, where I’ve had the opportunity to work on a variety of projects, trying out different design methods and improving my skills. I’m always looking for new ways to learn, grow, and improve my work.
