@@ -1,9 +1,8 @@
 [Home](index.md)
-[About](about.md)
 
-## Kateřina Vlková
+## Kateřina Vlková | [About Me](about.md)
 Ahoj! I’m Kateřina Vlková, a graphic designer who believes good design should always have a purpose. I specialize in working on brand identities and digital designs.
-[More About me](about.md)
+
 
 
 ## Featured Projects ##
