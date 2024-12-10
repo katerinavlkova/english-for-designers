@@ -12,7 +12,6 @@ Ahoj! I’m Kateřina Vlková, a **graphic designer** who believes good design s
 
 <img width="1006" alt="cafeletka" src="https://github.com/user-attachments/assets/1e42bbce-cab5-452f-8fc5-7ea2bfca39f9">
 
-
 I created a new visual identity for Café Letka. The goal was to make the design more modern while keeping the café’s unique feel. The new look is used for the café’s logo, menu, social media, and other materials.  I also created hand-drawn illustrations that the café can use in their visuals.
 
 I chose only black and white colors to complementa the café's colorful interior and to reflect the idea of black coffee.
