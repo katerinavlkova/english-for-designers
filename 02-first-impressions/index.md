@@ -28,7 +28,7 @@ This project helped more people connect with the gallery and its art in a new wa
 [View project](linkcomingnextsemester)
 
 ## 03: Redesign Visual Identity for FAMUFEST
-2023 | Visual Identity 
+2023 | Visual Identity | Class project
 
 This was a group school project where we collaborated to create the visual identity for the 40th FAMUFEST. The festival focused on the theme of “networks” and how they connect artists, audiences, and the world. Our design was inspired by neural networks in the brain, which influence our emotions and responses to art.
 
