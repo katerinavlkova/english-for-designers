@@ -34,8 +34,8 @@ With a simple, modern design that aligns with the gallery’s unique style, the 
 
 <img width="1309" alt="famu" src="https://github.com/user-attachments/assets/6192a0cc-ee04-412e-9872-72cb4423e049">
 
-The FAMUFEST is a student film festival in Prague. The theme of the 40th edition was "Networks" -  It focuses on how connections, both in the brain (neural networks) and in society, affect our emotions and experiences with art and film.
+The FAMUFEST is a student film festival in Prague, and for the 40th edition the theme was "Networks." This theme looks at how connections, both in the brain (neural networks) and in society, influence our emotions and how we experience art and film.
 
-It was a school team project, where my main tasks were designing the logo, animating it, and creating the visual style. We worked with the idea of the retina in the eye, which was connected to the festival's "Networks" theme.
+This was a school team project, and my main tasks included designing the logo, animating it, and creating the visual style. We focused on the concept of the retina in the eye, which tied into the "Networks" theme, and this idea shaped the overall visual identity for the festival.
 
 [View project](linkcomingnextsemester)
