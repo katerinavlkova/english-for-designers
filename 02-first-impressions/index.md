@@ -1,13 +1,13 @@
 [Home](index.md)
 
-## Kateřina Vlková | [About Me](about.md)
-Ahoj! I’m Kateřina Vlková, a graphic designer who believes good design should always have a purpose. I specialize in working on brand identities and digital designs.
+# Kateřina Vlková | [About Me](about.md)
+Ahoj! I’m Kateřina Vlková, a **graphic designer** who believes good design should always have a purpose. I specialize in working on **brand identities** and **digital designs**.
 
 
 
-## Featured Projects ##
+# Featured Projects:
 
-## 01: Redesign Visual Identity for Café Letka 
+## 01: Redesign Visual Identity for Café Letka ##
 2024 | Visual Identity
 
 I created a new visual identity for Café Letka. The goal was to make the design more modern while keeping the café’s unique feel. The new look is used for the café’s logo, menu, social media, and other materials.  I also created hand-drawn illustrations that the café can use in their visuals.
