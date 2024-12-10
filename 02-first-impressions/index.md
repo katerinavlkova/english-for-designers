@@ -12,9 +12,9 @@ Ahoj! I’m Kateřina Vlková, a **graphic designer** who believes good design s
 
 <img width="1006" alt="cafeletka" src="https://github.com/user-attachments/assets/1e42bbce-cab5-452f-8fc5-7ea2bfca39f9">
 
-I created a new visual identity for Café Letka. The goal was to make the design more modern while keeping the café’s unique feel. The new look is used for the café’s logo, menu, social media, and other materials.  I also created hand-drawn illustrations that the café can use in their visuals.
+I created a new visual identity for Café Letka, a cozy and stylish café that blends tradition with a modern touch. The goal was to design something that reflects the café’s unique atmosphere while giving it a fresh, updated look. The identity features a hand-drawn logo and illustrations that match the café’s visual style. 
 
-I chose only black and white colors to complementa the café's colorful interior and to reflect the idea of black coffee.
+This new design helps tell the café’s story and connect better with its customers.
 
 [View project](linkcomingnextsemester)
 
@@ -23,11 +23,9 @@ I chose only black and white colors to complementa the café's colorful interior
 
 ![Untitled design](https://github.com/user-attachments/assets/25be70d3-1abd-47a2-9ae6-510945a86bb5)
 
-Karpuchina Gallery is a small Prague gallery focused on new artists. I designed a mobile app to make its art more accessible. The app lets users browse artworks, view past exhibitions, and check the event calendar.
+The goal of this project was to create a mobile app for Karpuchina Gallery, a small Prague gallery focused on emerging artists, to make its art more accessible. The app allows users to browse artworks, explore past exhibitions, and check the event calendar. 
 
-The design is simple, modern, and easy to use, matching the gallery’s unique style.
-
-This project helped more people connect with the gallery and its art in a new way.
+With a simple, modern design that aligns with the gallery’s unique style, the app helps expand the gallery’s reach and provides a new way for people to engage with the art.
 
 [View project](linkcomingnextsemester)
 
@@ -36,8 +34,8 @@ This project helped more people connect with the gallery and its art in a new wa
 
 <img width="1309" alt="famu" src="https://github.com/user-attachments/assets/6192a0cc-ee04-412e-9872-72cb4423e049">
 
-This was a group school project where we collaborated to create the visual identity for the 40th FAMUFEST. The festival focused on the theme of “networks” and how they connect artists, audiences, and the world. Our design was inspired by neural networks in the brain, which influence our emotions and responses to art.
+The FAMUFEST is a student film festival in Prague. The theme of the 40th edition was "Networks" -  It focuses on how connections, both in the brain (neural networks) and in society, affect our emotions and experiences with art and film.
 
-We designed a logo, website, and social media visuals, which were also used in promotional materials. The design reflected the theme of connection and was applied across all festival platforms.
+It was a school team project, where my main tasks were designing the logo, animating it, and creating the visual style. We worked with the idea of the retina in the eye, which was connected to the festival's "Networks" theme.
 
 [View project](linkcomingnextsemester)
