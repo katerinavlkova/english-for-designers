@@ -30,7 +30,7 @@ With a simple, modern design that aligns with the gallery’s unique style, the 
 [View project](linkcomingnextsemester)
 
 ## 03: Redesign Visual Identity for FAMUFEST
-2023 | Visual Identity | Class project
+2023 | Visual Identity | Class Project
 
 <img width="1309" alt="famu" src="https://github.com/user-attachments/assets/6192a0cc-ee04-412e-9872-72cb4423e049">
 
