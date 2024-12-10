@@ -10,6 +10,9 @@ Ahoj! I’m Kateřina Vlková, a **graphic designer** who believes good design s
 ## 01: Redesign Visual Identity for Café Letka ##
 2024 | Visual Identity | Illustrations
 
+<img width="1006" alt="cafeletka" src="https://github.com/user-attachments/assets/1e42bbce-cab5-452f-8fc5-7ea2bfca39f9">
+
+
 I created a new visual identity for Café Letka. The goal was to make the design more modern while keeping the café’s unique feel. The new look is used for the café’s logo, menu, social media, and other materials.  I also created hand-drawn illustrations that the café can use in their visuals.
 
 I chose only black and white colors to complementa the café's colorful interior and to reflect the idea of black coffee.
@@ -18,6 +21,8 @@ I chose only black and white colors to complementa the café's colorful interior
 
 ## 02: App Design for Karpuchina gallery 
 2024 | App Design | Digital Design
+
+![Untitled design](https://github.com/user-attachments/assets/25be70d3-1abd-47a2-9ae6-510945a86bb5)
 
 Karpuchina Gallery is a small Prague gallery focused on new artists. I designed a mobile app to make its art more accessible. The app lets users browse artworks, view past exhibitions, and check the event calendar.
 
