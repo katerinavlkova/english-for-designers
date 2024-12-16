@@ -11,7 +11,10 @@
 
 16.12.2024 | Updates
 
-~~It wa a school project, where my work focused on designing the logo, animating it, and developing the festival’s visual style. Inspired by the concept of the retina, which tied into the “Networks” theme, this idea became the basis for the festival’s entire visual identity.~~ > My main responsibility was creating and animating the logo, but I also collaborated with the team to develop the overall concept and visual identity. We focused on the concept of the retina in the eye, which tied into the "Networks" theme.
+~~This was a school team project, and my main tasks included designing the logo, animating it, and creating the visual style. We focused on the concept of the retina in the eye, which tied into the "Networks" theme, and this idea shaped the overall visual identity for the festival.~~ > My main responsibility was creating and animating the logo, but I also collaborated with the team to develop the overall concept and visual identity. We focused on the concept of the retina in the eye, which tied into the "Networks" theme.
+
+~~With a simple, modern design that aligns with the gallery’s unique style, the app helps expand the gallery’s reach and provides a new way for people to engage with the art.~~ > I designed the app and created its prototype. This included several elements, such as the home screen, event calendar functionality or the option to save events. The app’s simple, modern design reflects the gallery’s unique style and provides a new way for people to interact with and experience the art.
+
 
 
 # Research:
