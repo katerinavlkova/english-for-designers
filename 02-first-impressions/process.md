@@ -7,6 +7,8 @@
 
 ~~FAMUFEST~~ > Redesign Visual Identity for FAMUFEST
 
+~~My main responsibility was creating and animating the logo, but I also collaborated with the team to develop the overall concept and visual identity. We focused on the concept of the retina in the eye, which tied into the "Networks" theme.~~ > My work focused on designing the logo, animating it, and developing the festival’s visual style. Inspired by the concept of the retina, which tied into the “Networks” theme, this idea became the basis for the festival’s entire visual identity.
+
 
 # Research:
 ## **1. Yul Moreau** ##
