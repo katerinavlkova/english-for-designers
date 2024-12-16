@@ -37,6 +37,6 @@ I designed the app and created its prototype. This included several elements, su
 
 FAMUFEST is a student film festival in Prague, and its 40th edition explored the theme “Networks,” focusing on how connections in neural networks and society influence emotions, art, and film.
 
-My main responsibility was creating and animating the logo, but I also collaborated with the team to develop the overall concept and visual identity. The idea of the retina, closely linked to the “Networks” theme, served as the core inspiration for the festival’s design language.
+My main responsibility was creating and animating the logo, but I also collaborated with the team to develop the overall concept and visual identity. We focused on the concept of the retina in the eye, which tied into the "Networks" theme.
 
 [View project](linkcomingnextsemester)
