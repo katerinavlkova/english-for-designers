@@ -25,7 +25,7 @@ This new design helps tell the café’s story and connect better with its custo
 
 The goal of this project was to create a mobile app for Karpuchina Gallery, a small Prague gallery focused on emerging artists, to make its art more accessible. The app allows users to browse artworks, explore past exhibitions, and check the event calendar. 
 
-With a simple, modern design that aligns with the gallery’s unique style, the app helps expand the gallery’s reach and provides a new way for people to engage with the art.
+I designed the app and created its prototype. This included several elements, such as the home screen, event calendar functionality or the option to save events. The app’s simple, modern design reflects the gallery’s unique style and provides a new way for people to interact with and experience the art.
 
 [View project](linkcomingnextsemester)
 
