@@ -34,8 +34,9 @@ I designed the app and created its prototype. This included several elements, su
 
 <img width="1309" alt="famu" src="https://github.com/user-attachments/assets/6192a0cc-ee04-412e-9872-72cb4423e049">
 
-The FAMUFEST is a student film festival in Prague, and for the 40th edition the theme was "Networks." This theme looks at how connections, both in the brain (neural networks) and in society, influence our emotions and how we experience art and film.
 
-This was a school team project, and my main tasks included designing the logo, animating it, and creating the visual style. We focused on the concept of the retina in the eye, which tied into the "Networks" theme, and this idea shaped the overall visual identity for the festival.
+FAMUFEST is a student film festival in Prague, and its 40th edition explored the theme “Networks,” focusing on how connections in neural networks and society influence emotions, art, and film.
+
+My main responsibility was creating and animating the logo, but I also collaborated with the team to develop the overall concept and visual identity. The idea of the retina, closely linked to the “Networks” theme, served as the core inspiration for the festival’s design language.
 
 [View project](linkcomingnextsemester)
