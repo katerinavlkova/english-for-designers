@@ -9,5 +9,9 @@
 - [About](02-first-impressions/about.md)
 - [Process](02-first-impressions/process.md)
 
+- **[03: Case studies](03-case-studies)**
+
+- **[04: Storytelling](04-storytelling)**
+
 
 
