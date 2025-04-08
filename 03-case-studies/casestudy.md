@@ -21,7 +21,7 @@ The event calendar turned out to be the most challenging part of the design.
 Exhibitions and events often overlap, and it needed to be clear and easy to navigate — without making the user feel lost.
 
 ## What’s Next?
-Not a Real App — But It Could Be.
+> Not a Real App — But It Could Be.
 Right now, this is just a concept project, but it was designed with real use in mind. If the project were to continue, I’d love to take it further.
 
 ## Final Thought
