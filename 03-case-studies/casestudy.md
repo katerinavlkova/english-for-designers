@@ -2,6 +2,7 @@
 ## Keeping It Quiet — Even on a Screen
 Karpuchina Gallery is not loud place. The gallery is quiet, calm, small, and a bit hidden in the center of Prague. It has white walls, old brick ceilings, and soft, simple light. When I started designing an app for them, I didn’t want to change that feeling. I just wanted to bring it into a new form.
 
+
 ## Letting the Space Lead the Design
 Before I designed anything, I looked at the space itself. The gallery is small but thoughtful. It has this balance between raw and clean — old structure and modern art. That told me everything: the app had to be simple, minimal, and respectful.
 
