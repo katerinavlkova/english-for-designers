@@ -24,6 +24,7 @@ For font, I chose Roboto because it’s clean and easy to read. The color palett
 ## Making Chaos Look Simple: The Calendar Challenge
 The event calendar turned out to be the most challenging part of the design.
 Exhibitions and events often overlap, and it needed to be clear and easy to navigate — without making the user feel lost.
+
 <img width="998" alt="Snímek obrazovky 2025-04-08 v 10 34 47" src="https://github.com/user-attachments/assets/0b3e8835-1559-49ab-a89b-c5759c8e8d74" />
 
 
