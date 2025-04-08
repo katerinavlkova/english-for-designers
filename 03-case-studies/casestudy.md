@@ -14,6 +14,7 @@ This app wasn’t just for people who already visit the gallery. It was also for
 
 ## The Interface Should Feel Like Walking
 The gallery feels like a place where you walk slowly and take your time. So I designed the app to feel similar — no complicated menus or hidden layers. Just clear sections: current shows, calendar, past exhibitions, saved items. The structure is minimal, just like the space itself.
+
 <img width="1433" alt="Snímek obrazovky 2025-04-08 v 10 33 36" src="https://github.com/user-attachments/assets/16596499-6b24-4821-bdf8-b253cb13f3ed" />
 
 
