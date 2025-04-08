@@ -13,6 +13,18 @@ The gallery feels like a place where you walk slowly and take your time. So I de
 ![placeholder for user flow]
 
 ## Design That Doesn’t Compete With the Art
+For font, I chose Roboto because it’s clean and easy to read. The color palette is simple: red, black, and white. I didn’t want the app to compete with the art. It’s there to support it — nothing more.
+![placeholder for style guide]
+
 ## Making Chaos Look Simple: The Calendar Challenge
+The event calendar turned out to be the most challenging part of the design.
+Exhibitions and events often overlap, and it needed to be clear and easy to navigate — without making the user feel lost.
+
 ## What’s Next?
+Not a Real App — But It Could Be.
+Right now, this is just a concept.
+
 ## Final Thought
+I didn’t want to make an app that looks impressive at first glance.
+I wanted to make one that feels invisible — until you need it.
+That’s what Karpuchina does so well: it lets the art do the work. And the app should do the same.
