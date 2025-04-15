@@ -3,6 +3,7 @@
 Karpuchina Gallery is not loud place. The gallery is quiet, calm, small, and a bit hidden in the center of Prague. It has white walls, old brick ceilings, and soft, simple light. When I started designing an app for them, I didn’t want to change that feeling. I just wanted to bring it into a new form.
 
 From the beginning, I knew that translating a physical space like Karpuchina into a mobile format would be less about adding features and more about protecting atmosphere. The app couldn’t be flashy or overwhelming. It had to be gentle, minimal, and respectful — just like the space itself. I was trying to hold space for its mood, its silence, and its understated beauty.
+
 ![Bez názvu-1](https://github.com/user-attachments/assets/138b6f65-e595-426d-b46d-41c6533201dd)
 
 ## Letting the Space Lead the Design
