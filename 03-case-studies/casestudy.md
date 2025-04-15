@@ -22,7 +22,6 @@ The gallery feels like a place where you walk slowly and take your time. So I de
 
 ## Design That Doesn’t Compete With the Art
 For font, I chose Roboto because it’s clean and easy to read. The color palette is simple: red, black, and white. I didn’t want the app to compete with the art. It’s there to support it — nothing more.
-![placeholder for style guide]
 
 ## Making Chaos Look Simple: The Calendar Challenge
 The event calendar turned out to be the most challenging part of the design.
