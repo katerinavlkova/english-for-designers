@@ -56,6 +56,8 @@ I applied the identity to all key touchpoints:
 
 
 ![Obrazek_30_Letaky](https://github.com/user-attachments/assets/d1348d8d-802c-424c-9831-91584f3d626d)
+![Bez názvu-21](https://github.com/user-attachments/assets/ed03b921-de40-4764-adf0-41b083fe6575)
+
 *Printed support materials with clear structure and human touch.*
 
 
