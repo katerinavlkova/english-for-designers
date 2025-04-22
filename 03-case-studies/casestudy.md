@@ -1,42 +1,69 @@
-# Designing Access to Art: A Mobile Experience for Karpuchina Gallery
-## Keeping It Quiet — Even on a Screen
-Karpuchina Gallery is not loud place. The gallery is quiet, calm, small, and a bit hidden in the center of Prague. It has white walls, old brick ceilings, and soft, simple light. When I started designing an app for them, I didn’t want to change that feeling. I just wanted to bring it into a new form.
+## Finding the Way Out: Designing a Visual Identity for Mental Health Support
 
-From the beginning, I knew that translating a physical space like Karpuchina into a mobile format would be less about adding features and more about protecting atmosphere. The app couldn’t be flashy or overwhelming. It had to be gentle, minimal, and respectful — just like the space itself. I was trying to hold space for its mood, its silence, and its understated beauty.
+How do you design one visual voice for both children and adults in need of help — without saying too much, too little, or the wrong thing?  
+This was a real project for a client — a Czech non-profit organization called Cesta z krize (“The Way Out of Crisis”), which supports people in difficult life situations and focuses on mental health.
 
-![Bez názvu-1](https://github.com/user-attachments/assets/138b6f65-e595-426d-b46d-41c6533201dd)
-
-## Letting the Space Lead the Design
-Before I designed anything, I looked at the space itself. The gallery is small but thoughtful. It has this balance between raw and clean — old structure and modern art. That told me everything: the app had to be simple, minimal, and respectful.
-
-## Art Is for Everyone — The App Had to Be Too
-This app wasn’t just for people who already visit the gallery. It was also for anyone who’s curious about art. So I wanted the app to feel open and easy to use. That meant clear design, intuitive interaction, and no pressure.
-
-<img width="1502" alt="Snímek obrazovky 2025-04-08 v 10 23 23" src="https://github.com/user-attachments/assets/a7fcd612-477d-4e0d-8101-809f726d58ac" />
-
-## The Interface Should Feel Like Walking
-The gallery feels like a place where you walk slowly and take your time. So I designed the app to feel similar — no complicated menus or hidden layers. Just clear sections: current shows, calendar, past exhibitions, saved items. The structure is minimal, just like the space itself.
-
-<img width="1433" alt="Snímek obrazovky 2025-04-08 v 10 33 36" src="https://github.com/user-attachments/assets/16596499-6b24-4821-bdf8-b253cb13f3ed" />
+The organization operates two anonymous, 24/7, free helplines. One is aimed at adults, the other at children, as well as their parents, teachers, and educators. My task was to create a single visual identity that would resonate with this very wide audience — from children to adults — across different emotional contexts and communication channels.
 
 
-## Design That Doesn’t Compete With the Art
-For font, I chose Roboto because it’s clean and easy to read. The color palette is simple: red, black, and white. I didn’t want the app to compete with the art. It’s there to support it — nothing more.
+## The Challenge: Designing for All Minds
 
-## Making Chaos Look Simple: The Calendar Challenge
-The event calendar turned out to be the most challenging part of the design.
-Exhibitions and events often overlap, and it needed to be clear and easy to navigate — without making the user feel lost.
-
-<img width="998" alt="Snímek obrazovky 2025-04-08 v 10 34 47" src="https://github.com/user-attachments/assets/0b3e8835-1559-49ab-a89b-c5759c8e8d74" />
+Creating a visual system for such a diverse audience meant walking a very fine line.  
+The identity needed to feel equally natural to a 10-year-old and a 50-year-old,  without feeling too childish for one or too cold for the other. It also had to approach the topic of mental health with care — avoiding clichés, heavy symbolism, or anything that might feel too sterile or too emotional.
 
 
-## What’s Next?
-> Not a Real App — But It Could Be.
 
-Right now, this is just a concept project, but it was designed with real use in mind. If the project were to continue, I’d love to take it further.
-The prototype was made with real exhibitions, real schedules, and real content from the gallery. It's not just a visual mock-up — it’s a framework that could evolve into something functional. If there’s ever a chance to collaborate with the gallery or develop it with a team, I’d be ready. 
+## Why the Logo Came Last — And Why It Made Perfect Sense
 
-## Final Thought
-I didn’t want to make an app that looks impressive at first glance.
-I wanted to make one that feels invisible — until you need it.
-That’s what Karpuchina does so well: it lets the art do the work. And the app should do the same.
+The original idea was to create a simple symbol made from a single continuous line — a visual element that appears throughout the entire identity.  
+I experimented with different concepts and symbols, but none of them felt quite right. Most symbols either felt too narrow, too specific, or it simply got lost next to the illustrations and other line-based elements.
+
+<img width="1266" alt="Snímek obrazovky 2025-04-22 v 10 05 22" src="https://github.com/user-attachments/assets/2196e512-053f-4d24-bd6b-b2e65093f1f8" />
+
+Also, I couldn’t find a symbol that could truly represent the full scope of what the organization does — they don’t just operate a helpline, but also provide chat support, organize awareness campaigns, and hold offline events. I didn’t want the logo to suggest only one type of service, like their old one, which used a phone  icon. 
+
+That’s why the logo ended up being the last part of the design process. By that point, the visual identity was already developed, and I realized that any symbolic logo would visually compete with everything else.
+
+So I decided to go with a typographic solution. The final logo features a stylized “Z” placed between the words “Cesta” and “Krize” — shaped like a curved line that represents a path. It connects the idea of movement and support in a subtle, flexible way.
+![Obrazek_16_Primarni_logo_organizace_CZK](https://github.com/user-attachments/assets/62fa9e96-32bb-4efc-abcd-1d45f5747702)
+
+## Lines That Guide, Colors That Calm, Faces That Speak
+
+The visual identity is built around the line — a soft, curved path that guides the eye and appears in every part of the system. It symbolizes movement, progress, and connection.
+
+Colors are used for clarity and tone:  
+- **Green** = adult helpline  
+- **Blue** = children’s helpline  
+Both have lighter secondary tones for flexibility.
+
+![Obrazek_21_Korporatni_barevnost](https://github.com/user-attachments/assets/508d0308-d33c-4fb1-ae32-ee2028527f58)
+
+
+Illustrations play a central role — **simple drawings of girls and boys** that express a range of emotions — from sadness to happiness. These illustrations help make the identity more human, accessible, and emotionally engaging without feeling too literal or overwhelming.
+
+![Obrazek_22_Ukazka_Ilustraci](https://github.com/user-attachments/assets/6a025ff7-8d03-48d2-877c-2e881d9d0924)
+
+## Bringing It All Together  
+I applied the identity to all key touchpoints:
+
+- **New website** clearly dividing the two helplines  
+- **Social networks** that blend line work, illustration, and tone  
+- **Brochures and posters** for parents, children, and professionals  
+- **Motivational merchandise** that spreads awareness through small messages of hope
+
+![ig](https://github.com/user-attachments/assets/bca628a9-88bc-4a4f-9310-5880d3b53f0b)
+*Social media presence keeps the message consistent and accessible.*
+
+
+![Obrazek_30_Letaky](https://github.com/user-attachments/assets/d1348d8d-802c-424c-9831-91584f3d626d)
+*Printed support materials with clear structure and human touch.*
+
+
+![merch](https://github.com/user-attachments/assets/57b6330b-28a3-4d08-8640-da8d2bff4498)
+*Merchandise spreads awareness and encouragement beyond the screen.*
+
+## What This Project Taught Me: Empathy first, design second
+
+This project taught me how to work with a sensitive topic and translate it into visual language with care and responsibility. It was also my first experience designing for a non-profit organization. Most of all, I learned how to create a clear, consistent visual identity for a very broad audience.
+
+![loga](https://github.com/user-attachments/assets/f919781d-2f21-40f0-bf92-69b7679cd7ce)
