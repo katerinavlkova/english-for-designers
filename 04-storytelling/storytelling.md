@@ -6,7 +6,7 @@ Graphic Designer. Web Design Fan. College Student. Photographer Since Forever. C
 I drink too much matcha and watch way too many series.
 
 That’s a quick intro. But let me tell you the full story.
----
+
 ## My First Camera
 My journey into creativity started long before school.
 When I was just a tiny kid, barely able to walk properly, I was already walking around with a camera in my hand — capturing every little thing around me: family dinners, my toys or random objects.
