@@ -13,7 +13,7 @@
 - [Case study](03-case-studies/casestudy.md)
   
 **[04: Storytelling](04-storytelling)**
-- [Storytelling] (04-storytelling/storytelling.md)
+- [Storytelling](04-storytelling/storytelling.md)
 
 
 
