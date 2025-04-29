@@ -78,7 +78,7 @@ From my first pink camera to my latest  design project, every step taught me som
 
 - **Embrace mistakes — they often lead to the best ideas.**
 
-- **Design for emotions, not just for the eyes."**
+- **Design for emotions, not just for the eyes.**
 
 And I’m excited to keep going — learning, creating, and telling stories that matter.
 
