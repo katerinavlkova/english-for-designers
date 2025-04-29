@@ -35,7 +35,7 @@ Switching from photography to design wasn’t starting over — it was building 
 Photography gave me a visual language — and graphic design gave me a way to expand it.
 Here’s what photography gave me that I still use every day as a designer:
 
-- **Composition:**  Both in photos and in design, the placement of elements is everything. Knowing where to put focus, how to balance space, and how to guide the eye is crucial.
+- **Composition:**  Both in photos and in design, the placement of elements is everything. Knowing where to put focus, how to balance space, and how to guide the eye is really important.
 
 - **Framing:** In photography, you decide what’s in the frame and what’s left out. In design, it’s about using margins, grids, and negative space to create clarity.
 
@@ -44,8 +44,6 @@ Here’s what photography gave me that I still use every day as a designer:
 - **Emotional storytelling:** A good photograph tells a story. So does a good design. Whether it’s a poster, a logo, or a landing page — it should make people feel something.
 
 - **Patience and observation:** Photography trained my eye. It taught me to look closely and notice small details, which makes me a more careful and thoughtful designer. The more you slow down, the more you see — and that makes your work better.
-
-- **Working with constraints:** In both fields, you often have constraints — time, tools, space — but great work happens when you’re creative within those limits. 
 
 ## Where I Found My Place
 Over time, I found what I enjoy the most:
