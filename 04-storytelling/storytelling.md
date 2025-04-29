@@ -13,6 +13,8 @@ When I was just a tiny kid, barely able to walk properly, I was already walking 
 At the age of six, I got my first big girl digital camera. It was pink (of course) and mine and felt like the best thing in the world.
 I started documenting everything around me. It wasn’t about making perfect photos — it was just fun. And it made me feel like I could catch a moment and keep it forever.
 
+![P8311164](https://github.com/user-attachments/assets/70e86bfc-086b-4e8c-b0f5-08a6ab04ea44)
+
 
 ## Why I Chose Art School
 That love for photography stayed with me.
