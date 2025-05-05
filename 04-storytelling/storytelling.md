@@ -1,4 +1,4 @@
-[Presentation](storytelling.pdf)
+[Presentation](../storytelling.pdf)
 
 ---
 
