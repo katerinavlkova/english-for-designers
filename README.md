@@ -14,6 +14,7 @@
   
 **[04: Storytelling](04-storytelling)**
 - [Storytelling](04-storytelling/storytelling.md)
+- [Presentation](../storytelling.pdf)
 
 
 
