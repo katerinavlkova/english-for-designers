@@ -1,3 +1,13 @@
+| **Project**             | Bachelor Thesis: Visual identity for non-profit organization |
+|:---------------------|:-----|
+| **Year**             | 2025 |
+| **Work Period**      | January – April 2025 |
+| **About the Client** | Non-profit organization *Cesta z krize*, focused on mental health support. Operates two anonymous helplines for adults and for children, parents, and teachers. |
+| **My Role**          | Graphic design, visual identity development, illustration, typography, design of online and print materials |
+
+![loga](https://github.com/user-attachments/assets/f919781d-2f21-40f0-bf92-69b7679cd7ce)
+
+
 ## Finding the Way Out: Designing a Visual Identity for Mental Health Support
 
 How do you design one visual voice for both children and adults in need of help — without saying too much, too little, or the wrong thing?  
@@ -5,6 +15,14 @@ This was a real project for a client — a Czech non-profit organization called 
 
 The organization operates two anonymous, 24/7, free helplines. One is aimed at adults, the other at children, as well as their parents, teachers, and educators. My task was to create a single visual identity that would resonate with this very wide audience — from children to adults — across different emotional contexts and communication channels.
 
+## Looking Around First: Market analysis
+Before starting the design process, I looked at other Czech organizations working in mental health and crisis support — including helplines, non-profits, and psychological services.
+
+![konkurence](https://github.com/user-attachments/assets/93787b8f-c7cd-446e-a2a5-a3be3825b279)
+
+What I noticed quickly was that most of them use the same color palette — mostly green, blue, or purple, often in very similar shades. Their logos are usually typographic with a small graphic detail, or they use a symbol next to the name. But many of those symbols don’t really say much.
+
+Some identities also felt very outdated — like they hadn’t changed in years and no longer fit today’s communication needs. 
 
 ## The Challenge: Designing for All Minds
 
@@ -30,6 +48,9 @@ So I decided to go with a typographic solution. The final logo features a styliz
 ## Lines That Guide, Colors That Calm, Faces That Speak
 
 The visual identity is built around the line — a soft, curved path that guides the eye and appears in every part of the system. It symbolizes movement, progress, and connection.
+
+<img width="903" alt="Snímek obrazovky 2025-05-05 v 15 45 33" src="https://github.com/user-attachments/assets/b00c300b-97c6-48c6-ba51-25944053d220" />
+
 
 Colors are used for clarity and tone:  
 - **Green** = adult helpline  
@@ -68,4 +89,3 @@ I applied the identity to all key touchpoints:
 
 This project taught me how to work with a sensitive topic and translate it into visual language with care and responsibility. It was also my first experience designing for a non-profit organization. Most of all, I learned how to create a clear, consistent visual identity for a very broad audience.
 
-![loga](https://github.com/user-attachments/assets/f919781d-2f21-40f0-bf92-69b7679cd7ce)
