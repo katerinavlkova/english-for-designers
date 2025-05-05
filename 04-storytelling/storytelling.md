@@ -1,9 +1,12 @@
+***Presentation***: [storytelling.pdf](https://github.com/user-attachments/files/20036494/storytelling.pdf)
+
+
+---
+
 ***Hi everyone!***   
 ***I’m Kateřina Vlková.***
 
 Graphic Designer. Web Design Fan. College Student. Photographer Since Forever. Creative Visual Thinker. Professional Perfectionist.
-
-I drink too much matcha and watch way too many series.
 
 That’s a quick intro. But let me tell you the full story.
 
