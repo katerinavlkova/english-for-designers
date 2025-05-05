@@ -20,7 +20,7 @@ Before starting the design process, I looked at other Czech organizations workin
 
 ![konkurence](https://github.com/user-attachments/assets/93787b8f-c7cd-446e-a2a5-a3be3825b279)
 
-What I noticed quickly was that most of them use the same color palette — mostly green, blue, or purple, often in very similar shades. Their logos are usually typographic with a small graphic detail, or they use a symbol next to the name. But many of those symbols don’t really say much.
+What I noticed quickly was that most of them use the same color palette — mostly green or blue, often in very similar shades. Their logos are usually typographic with a small graphic detail, or they use a symbol next to the name. But many of those symbols don’t really say much.
 
 Some identities also felt very outdated — like they hadn’t changed in years and no longer fit today’s communication needs. 
 
