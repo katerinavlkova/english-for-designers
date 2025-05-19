@@ -9,11 +9,17 @@ Graphic Designer. Web Design Fan. College Student. Photographer Since Forever. C
 
 That’s a quick intro. But let me tell you the full story.
 
+![1](https://github.com/user-attachments/assets/ae9c94d3-0df3-4a87-a79d-af4a8024b277)
+
+
 ## My First Camera
 My journey into creativity started long before school.
 When I was just a tiny kid, barely able to walk properly, I was already walking around with a camera in my hand — capturing every little thing around me: family dinners, my toys or random objects.
 At the age of six, I got my first big girl digital camera. It was pink (of course) and mine and felt like the best thing in the world.
 I started documenting everything around me. It wasn’t about making perfect photos — it was just fun. And it made me feel like I could catch a moment and keep it forever.
+
+![2](https://github.com/user-attachments/assets/edab0d7d-1455-4f23-bc11-30af67276799)
+
 
 ## Why I Chose Art School
 That love for photography stayed with me.
@@ -23,6 +29,9 @@ There, I focused on photography and media.
 I didn’t just learn how to use a camera — I learned how to think visually, how to tell stories through images, and how to create meaningful work with purpose.
 
 Photography taught me how to see the world.
+
+![3](https://github.com/user-attachments/assets/2afdbc66-3c74-4b41-a748-cd6e2d37ca57)
+
 
 ## A Shift Toward Graphic Design
 But after graduation, something changed.
@@ -57,6 +66,9 @@ Web design especially excites me because it combines logic and structure with cr
 And while design is now my main focus, photography never really left.
 Sometimes I still take photos — for projects, for inspiration, or just because I can’t help it.
 It’s something that stays with me — not as a job, but as part of how I see the world.
+
+![4](https://github.com/user-attachments/assets/515d47ed-275c-4904-a026-ab0046fde339)
+
 
 ## What Design Means to Me (and Why I Keep Doing It)
 To me, design is not just a skill — it’s a mindset.
