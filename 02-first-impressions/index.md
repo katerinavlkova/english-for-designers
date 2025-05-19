@@ -10,7 +10,7 @@ Ahoj! I’m Kateřina Vlková, a **graphic designer** who believes good design s
 ## 01: Redesign Visual Identity for Café Letka ##
 2024 | Visual Identity | Illustrations
 
-<img width="1006" alt="cafeletka" src="https://github.com/user-attachments/assets/1e42bbce-cab5-452f-8fc5-7ea2bfca39f9">
+![394177394-1e42bbce-cab5-452f-8fc5-7ea2bfca39f9](https://github.com/user-attachments/assets/87fecc1f-6a91-4a0e-89a6-88e5db7668d2)
 
 I created a new visual identity for Café Letka, a cozy and stylish café that blends tradition with a modern touch. The goal was to design something that reflects the café’s unique atmosphere while giving it a fresh, updated look. The identity features a hand-drawn logo and illustrations that match the café’s visual style. 
 
@@ -21,7 +21,8 @@ This new design helps tell the café’s story and connect better with its custo
 ## 02: App Design for Karpuchina gallery 
 2024 | App Design | Digital Design
 
-![Untitled design](https://github.com/user-attachments/assets/25be70d3-1abd-47a2-9ae6-510945a86bb5)
+![394165714-25be70d3-1abd-47a2-9ae6-510945a86bb5](https://github.com/user-attachments/assets/d65700ba-c7e2-48a5-862e-9cd3c04abc07)
+
 
 The goal of this project was to create a mobile app for Karpuchina Gallery, a small Prague gallery focused on emerging artists, to make its art more accessible. The app allows users to browse artworks, explore past exhibitions, and check the event calendar. 
 
@@ -32,7 +33,7 @@ I designed the app and created its prototype. This included several elements, su
 ## 03: Redesign Visual Identity for FAMUFEST
 2023 | Visual Identity | Class Project
 
-<img width="1309" alt="famu" src="https://github.com/user-attachments/assets/6192a0cc-ee04-412e-9872-72cb4423e049">
+![394179829-6192a0cc-ee04-412e-9872-72cb4423e049](https://github.com/user-attachments/assets/3c76dcbf-6c2e-4241-af05-93b7439febd3)
 
 
 FAMUFEST is a student film festival in Prague, and its 40th edition explored the theme “Networks,” focusing on how connections in neural networks and society influence emotions, art, and film.
