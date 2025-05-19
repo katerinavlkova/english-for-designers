@@ -45,11 +45,9 @@ That’s why the logo ended up being the last part of the design process. By tha
 So I decided to go with a typographic solution. The final logo features a stylized “Z” placed between the words “Cesta” and “Krize” — shaped like a curved line that represents a path. It connects the idea of movement and support in a subtle, flexible way.
 ![435973599-62fa9e96-32bb-4efc-abcd-1d45f5747702](https://github.com/user-attachments/assets/6ef94a3d-0654-43df-b3f9-0feacfb1a069)
 
-
 ## Lines That Guide, Colors That Calm, Faces That Speak
 
 The visual identity is built around the line — a soft, curved path that guides the eye and appears in every part of the system. It symbolizes movement, progress, and connection.
-
 ![440397477-b00c300b-97c6-48c6-ba51-25944053d220](https://github.com/user-attachments/assets/e5eb9efd-b3da-4688-955c-414574a0bd68)
 
 
