@@ -1,6 +1,6 @@
 # english-for-designers
 
-**[01: Design Manifesto](manifesto.md)**
+**[01: Design Manifesto](01-design-manifesto/)**
 - [Manifesto](01-design-manifesto/manifesto.md)
 - [Talk](01-design-manifesto/manifesto.pdf)
 
