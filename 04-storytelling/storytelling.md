@@ -9,7 +9,8 @@ Graphic Designer. Web Design Fan. College Student. Photographer Since Forever. C
 
 That’s a quick intro. But let me tell you the full story.
 
-![1](https://github.com/user-attachments/assets/ae9c94d3-0df3-4a87-a79d-af4a8024b277)
+![1](https://github.com/user-attachments/assets/c259191f-cfdd-4d69-b912-d42a8901d2d2)
+
 
 
 ## My First Camera
@@ -18,7 +19,7 @@ When I was just a tiny kid, barely able to walk properly, I was already walking 
 At the age of six, I got my first big girl digital camera. It was pink (of course) and mine and felt like the best thing in the world.
 I started documenting everything around me. It wasn’t about making perfect photos — it was just fun. And it made me feel like I could catch a moment and keep it forever.
 
-![2](https://github.com/user-attachments/assets/edab0d7d-1455-4f23-bc11-30af67276799)
+![2](https://github.com/user-attachments/assets/fc5f8609-cc5e-47ee-bb9d-5d6fca317f65)
 
 
 ## Why I Chose Art School
@@ -30,7 +31,8 @@ I didn’t just learn how to use a camera — I learned how to think visually, h
 
 Photography taught me how to see the world.
 
-![3](https://github.com/user-attachments/assets/2afdbc66-3c74-4b41-a748-cd6e2d37ca57)
+![3](https://github.com/user-attachments/assets/1381496e-e029-483b-afe7-b9f7071b34c9)
+
 
 
 ## A Shift Toward Graphic Design
@@ -67,7 +69,8 @@ And while design is now my main focus, photography never really left.
 Sometimes I still take photos — for projects, for inspiration, or just because I can’t help it.
 It’s something that stays with me — not as a job, but as part of how I see the world.
 
-![4](https://github.com/user-attachments/assets/515d47ed-275c-4904-a026-ab0046fde339)
+![4](https://github.com/user-attachments/assets/4d873742-5b40-4ebf-a9c9-813f88ce1ac8)
+
 
 
 ## What Design Means to Me (and Why I Keep Doing It)
