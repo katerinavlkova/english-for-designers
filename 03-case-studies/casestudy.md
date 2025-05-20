@@ -11,6 +11,7 @@
 ## Finding the Way Out: Designing a Visual Identity for Mental Health Support
 
 How do you design one visual voice for both children and adults in need of help — without saying too much, too little, or the wrong thing?  
+
 This was a real project for a client — a Czech non-profit organization called Cesta z krize (“The Way Out of Crisis”), which supports people in difficult life situations and focuses on mental health.
 
 The organization operates two anonymous, 24/7, free helplines. One is aimed at adults, the other at children, as well as their parents, teachers, and educators. My task was to create a single visual identity that would resonate with this very wide audience — from children to adults — across different emotional contexts and communication channels.
