@@ -14,7 +14,9 @@ How do you design one visual voice for both children and adults in need of help 
 
 This was a real project for a client — a Czech non-profit organization called Cesta z krize (“The Way Out of Crisis”), which supports people in difficult life situations and focuses on mental health.
 
-The organization operates two anonymous, 24/7, free helplines. One is aimed at adults, the other at children, as well as their parents, teachers, and educators. My task was to create a single visual identity that would resonate with this very wide audience — from children to adults — across different emotional contexts and communication channels.
+The organization operates two anonymous, 24/7, free helplines. One is aimed at adults, the other at children, as well as their parents, teachers, and educators. 
+
+My task was to create a single visual identity that would resonate with this very wide audience — from children to adults — across different emotional contexts and communication channels.
 
 ## Looking Around First: Market Analysis
 Before starting the design process, I looked at other Czech organizations working in mental health and crisis support — including helplines, non-profits, and psychological services.
