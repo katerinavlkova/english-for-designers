@@ -62,7 +62,9 @@ Both have lighter secondary tones for flexibility.
 
 ![435981842-508d0308-d33c-4fb1-ae32-ee2028527f58](https://github.com/user-attachments/assets/16a0d306-54cc-4db2-8f49-a5071b75b995)
 
-Illustrations play a central role — **simple drawings of girls and boys** that express a range of emotions — from sadness to happiness. These illustrations help make the identity more human, accessible, and emotionally engaging without feeling too literal or overwhelming.
+Illustrations play a central role — **simple drawings of girls and boys** that express a range of emotions — from sadness to happiness. 
+
+These illustrations help make the identity more human, accessible, and emotionally engaging without feeling too literal or overwhelming.
 
 ![435974464-6a025ff7-8d03-48d2-877c-2e881d9d0924](https://github.com/user-attachments/assets/bc7f92b6-f6b1-4baa-bb5d-d82f771f35e6)
 
