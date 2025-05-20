@@ -15,7 +15,7 @@ This was a real project for a client — a Czech non-profit organization called 
 
 The organization operates two anonymous, 24/7, free helplines. One is aimed at adults, the other at children, as well as their parents, teachers, and educators. My task was to create a single visual identity that would resonate with this very wide audience — from children to adults — across different emotional contexts and communication channels.
 
-## Looking Around First: Market analysis
+## Looking Around First: Market Analysis
 Before starting the design process, I looked at other Czech organizations working in mental health and crisis support — including helplines, non-profits, and psychological services.
 
 ![440414949-93787b8f-c7cd-446e-a2a5-a3be3825b279](https://github.com/user-attachments/assets/c120556f-d26a-49d8-a1ac-de1d13233820)
@@ -81,7 +81,7 @@ I applied the identity to all key touchpoints:
 ![435980132-57b6330b-28a3-4d08-8640-da8d2bff4498](https://github.com/user-attachments/assets/67d4ca9a-c3fc-4504-ac22-e4a22e24323f)
 *Merchandise spreads awareness and encouragement beyond the screen.*
 
-## What This Project Taught Me: Empathy first, design second
+## What This Project Taught Me: Empathy First, Design Second
 
 This project taught me how to work with a sensitive topic and translate it into visual language with care and responsibility. It was also my first experience designing for a non-profit organization. Most of all, I learned how to create a clear, consistent visual identity for a very broad audience.
 
