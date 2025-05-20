@@ -1,4 +1,4 @@
-[Presentation](..04-storytelling/storytelling.pdf)
+[Presentation](storytelling.pdf)
 
 ---
 
