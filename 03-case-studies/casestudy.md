@@ -89,6 +89,8 @@ I applied the identity to all key touchpoints:
 
 ## What This Project Taught Me: Empathy First, Design Second
 
-This project taught me how to work with a sensitive topic and translate it into visual language with care and responsibility. It was also my first experience designing for a non-profit organization. Most of all, I learned how to create a clear, consistent visual identity for a very broad audience.
+This project taught me how to work with a sensitive topic and translate it into visual language with care and responsibility. It was also my first experience designing for a non-profit organization. 
+
+Most of all, I learned how to create a clear, consistent visual identity for a very broad audience.
 
 **[📬 Contact me](mailto:katesafrankova@gmail.com)**  **[📁 See more projects](02-first-impressions/index.md)**
