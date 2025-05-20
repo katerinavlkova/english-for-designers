@@ -37,6 +37,7 @@ The identity needed to feel equally natural to a 10-year-old and a 50-year-old, 
 ## Why the Logo Came Last — And Why It Made Perfect Sense
 
 The original idea was to create a simple symbol made from a single continuous line — a visual element that appears throughout the entire identity.  
+
 I experimented with different concepts and symbols, but none of them felt quite right. Most symbols either felt too narrow, too specific, or it simply got lost next to the illustrations and other line-based elements.
 
 ![435969504-2196e512-053f-4d24-bd6b-b2e65093f1f8](https://github.com/user-attachments/assets/c0b7e9ce-3c67-4575-a684-5a0c7be391b3)
